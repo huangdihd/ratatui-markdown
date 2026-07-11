@@ -124,7 +124,7 @@ name = "mon-appli"
 version = "0.1.0"
 
 [dependencies]
-ratatui = "0.29"
+ratatui = "0.30"
 serde = { version = "1.0", features = ["derive"] }
 
 [features]

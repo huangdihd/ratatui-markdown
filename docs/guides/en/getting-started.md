@@ -2,8 +2,8 @@
 
 ## Prerequisites
 
-- **Rust** 1.74 or later
-- **ratatui** 0.29 (automatically pulled as a dependency)
+- **Rust** 1.88 or later
+- **ratatui** 0.30 (automatically pulled as a dependency)
 
 ## Installation
 

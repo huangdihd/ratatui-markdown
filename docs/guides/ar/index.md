@@ -6,9 +6,9 @@
 
 > مكتبة Rust توفر عرض Markdown ومخططات Mermaid وتلوين بناء الجملة وأشجار JSON/TOML قابلة للطي وعناصر تمرير غنية لـ ratatui.
 >
-> **مبنية على**: [ratatui](https://github.com/ratatui/ratatui) 0.29 + Rust خالص
+> **مبنية على**: [ratatui](https://github.com/ratatui/ratatui) 0.30 + Rust خالص
 >
-> **أدنى إصدار Rust**: 1.74
+> **أدنى إصدار Rust**: 1.88
 
 <div align="center">
   <p>

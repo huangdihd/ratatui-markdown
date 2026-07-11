@@ -64,8 +64,8 @@
 
 ### Prerequisites
 
-- Rust 1.74+
-- [ratatui](https://github.com/ratatui/ratatui) 0.29
+- Rust 1.88+
+- [ratatui](https://github.com/ratatui/ratatui) 0.30
 
 ### Installation
 

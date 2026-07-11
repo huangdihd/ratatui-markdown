@@ -6,9 +6,9 @@
 
 > ratatui 를 위한 Markdown 렌더링, Mermaid 다이어그램, 구문 강조, 접이식 JSON/TOML 트리, 그리고 풍부한 스크롤 위젯을 제공하는 Rust 라이브러리입니다.
 >
-> **빌드 기반**: [ratatui](https://github.com/ratatui/ratatui) 0.29 + 순수 Rust
+> **빌드 기반**: [ratatui](https://github.com/ratatui/ratatui) 0.30 + 순수 Rust
 >
-> **최소 Rust 버전**: 1.74
+> **최소 Rust 버전**: 1.88
 
 <div align="center">
   <p>

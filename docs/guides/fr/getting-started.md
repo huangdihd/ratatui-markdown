@@ -2,8 +2,8 @@
 
 ## Prérequis
 
-- **Rust** 1.74 ou ultérieur
-- **ratatui** 0.29 (automatiquement récupéré comme dépendance)
+- **Rust** 1.88 ou ultérieur
+- **ratatui** 0.30 (automatiquement récupéré comme dépendance)
 
 ## Installation
 

@@ -6,9 +6,9 @@
 
 > Une bibliothèque Rust offrant un rendu Markdown, des diagrammes Mermaid, la coloration syntaxique, des arbres JSON/TOML rétractables et des widgets de défilement riches pour ratatui.
 >
-> **Construit avec**: [ratatui](https://github.com/ratatui/ratatui) 0.29 + Rust pur
+> **Construit avec**: [ratatui](https://github.com/ratatui/ratatui) 0.30 + Rust pur
 >
-> **Version Rust minimale**: 1.74
+> **Version Rust minimale**: 1.88
 
 <div align="center">
   <p>

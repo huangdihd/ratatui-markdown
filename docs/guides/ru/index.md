@@ -6,9 +6,9 @@
 
 > Библиотека Rust для рендеринга Markdown, диаграмм Mermaid, подсветки синтаксиса, сворачиваемых деревьев JSON/TOML и расширенных виджетов прокрутки для ratatui.
 >
-> **Основана на**: [ratatui](https://github.com/ratatui/ratatui) 0.29 + чистый Rust
+> **Основана на**: [ratatui](https://github.com/ratatui/ratatui) 0.30 + чистый Rust
 >
-> **Минимальная версия Rust**: 1.74
+> **Минимальная версия Rust**: 1.88
 
 <div align="center">
   <p>

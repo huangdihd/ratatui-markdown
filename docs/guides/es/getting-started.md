@@ -2,8 +2,8 @@
 
 ## Requisitos Previos
 
-- **Rust** 1.74 o superior
-- **ratatui** 0.29 (se obtiene automáticamente como dependencia)
+- **Rust** 1.88 o superior
+- **ratatui** 0.30 (se obtiene automáticamente como dependencia)
 
 ## Instalación
 

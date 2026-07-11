@@ -108,7 +108,7 @@ fn main() {
 
 | Nombre | Versión |
 |--------|---------|
-| ratatui | 0.29 |
+| ratatui | 0.30 |
 | serde | 1.0 |
 "#;
 
